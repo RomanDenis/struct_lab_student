@@ -1,0 +1,5 @@
+C:\Users\ДЕНИС\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.csprojResolveAssemblyReference.cache
+C:\Users\ДЕНИС\Desktop\Laba5\Laba5\bin\Debug\Laba5.exe
+C:\Users\ДЕНИС\Desktop\Laba5\Laba5\bin\Debug\Laba5.pdb
+C:\Users\ДЕНИС\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.exe
+C:\Users\ДЕНИС\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.pdb
